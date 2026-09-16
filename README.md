@@ -13,3 +13,6 @@
  - New blocks, mobs, and items!
 
 *brought to you by UrBudPenguin and TBMJCG*
+IF IT DOES NOT WORK MAKE A CODE SPACE AND TELL THE A.I TO ADD A startup.sh FILE THEN DO ACCEPT OR KEEP THEN GO TO THE TERMINAL 
+AND TYPE bash startup.sh
+AND THEN PRESS OPEN
